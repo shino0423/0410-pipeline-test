@@ -15,7 +15,7 @@
       "X-Azure-FDID": "1be18c6f-4580-45b5-85f4-2617da11affd"
     },
     "allowedForwardedHosts": [
-      "mng.sd-test.jp"
+      "https://calm-rock-0921fe400.6.azurestaticapps.net"
     ]
   }
 }
