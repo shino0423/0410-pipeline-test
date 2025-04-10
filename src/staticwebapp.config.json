@@ -10,10 +10,6 @@
     ".js": "text/javascript",
     ".css": "text/css"
   } ,
-   "forwardingGateway": {
-    "requiredHeaders": {
-      "X-Azure-FDID": "b85acf0d-4244-4750-9e9b-a03962a2733d"
-    },
     "allowedForwardedHosts": [
       "calm-rock-0921fe400.6.azurestaticapps.net"
     ]
