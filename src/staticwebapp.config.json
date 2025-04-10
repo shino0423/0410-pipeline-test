@@ -1,0 +1,21 @@
+{
+  "navigationFallback": {
+    "rewrite": "/index.html",
+    "exclude": [
+      "/*.css",
+      "/*.js"
+    ]
+  },
+  "mimeTypes": {
+    ".js": "text/javascript",
+    ".css": "text/css"
+  } ,
+   "forwardingGateway": {
+    "requiredHeaders": {
+      "X-Azure-FDID": "1be18c6f-4580-45b5-85f4-2617da11affd"
+    },
+    "allowedForwardedHosts": [
+      "mng.sd-test.jp"
+    ]
+  }
+}
