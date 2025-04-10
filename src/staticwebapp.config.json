@@ -9,9 +9,5 @@
   "mimeTypes": {
     ".js": "text/javascript",
     ".css": "text/css"
-  } ,
-    "allowedForwardedHosts": [
-      "calm-rock-0921fe400.6.azurestaticapps.net"
-    ]
-  }
+  } 
 }
